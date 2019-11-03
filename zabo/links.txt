@@ -1,0 +1,4 @@
+Client ID: njACEbH5kqNEzaDBIP1orCcWth95okgdLRKXLnfBFsib3OK51mrvOoNKjkBEJohY
+Server Public API Key: 4ee0929ced1e24e45bd181e9b46a94b4568b5892
+Server Private API Key: 840aae94fad5c6e41104812770c302cb611f96c5d5cc37f701d102708eb0c0a0
+Docs: https://zabo.com/docs

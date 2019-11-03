@@ -1,0 +1,23 @@
+Developer Portal: https://cosmos.network/developers
+Cosmos SDK Documentation: https://github.com/cosmos/cosmos-sdk/tree/master/docs
+Cosmos "HelloChain" Tutorials:
+- HelloChain https://tutorials.cosmos.network/hellochain
+- Nameservice https://tutorials.cosmos.network/nameservice
+fast-finality DEX demo:
+Tweet: https://twitter.com/cosmos/status/1190025847299878917
+GitHub: https://github.com/tendermint/dex-demo
+IBC Transfer Demo: https://github.com/cosmos/cosmos-sdk/pull/5250
+Ethermint tutorials
+YouTube: https://www.youtube.com/watch?v=Rws-QQ_qcfU
+GitHub: https://github.com/ChainSafe/ethermint-deploy
+Wallet:
+- Lunie: https://github.com/luniehq/lunie
+- Keystation: https://github.com/cosmostation/keystation
+- Kepler: https://github.com/everett-protocol/kepler-extension
+Libraries:
+- Cosmos API by Lunie: https://github.com/luniehq/cosmos-api
+- CosmosJS by Everett: https://github.com/everett-protocol/cosmosjs
+Wasm/Smart Contracts:
+- Cosm wasm: https://github.com/confio/cosmwasm
+- Kadenamint: https://github.com/kadena-io/kadenamint
+- Wasm-based smart contracts: https://github.com/bluele/hypermint

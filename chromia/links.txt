@@ -1,0 +1,18 @@
+Website: https://chromia.com/
+Documentation: http://rell.readthedocs.io/
+Blockchain Code: https://bitbucket.org/chromawallet/postchain2/src/master/
+Js Library (client): https://bitbucket.org/chromawallet/postchain-client/src/master/
+Wallet: https://wallet-v2.chromia.dev/
+Token Library: https://bitbucket.org/chromawallet/ft3-lib/src/master/
+NFT: https://planetary.chromia.com/
+Tic Tac toe demo app: https://bitbucket.org/chromawallet/tic-tac-toe-consensus/src/add-routes/
+Decentralized Reddit: https://dev.chromunity.com/ and source code https://github.com/snieking/chromunity
+Chat App tutorial: https://rell.readthedocs.io/en/master/examples/chromachat.html
+Bitcoin Tutorial: https://rell.readthedocs.io/en/master/examples/tokens_account.html
+Fun game: https://d2xx7mtkdpibbc.cloudfront.net/chromaway/miners/build/
+
+HOW TO CODE:
+Web based IDE: https://try.chromia.dev/
+Eclipse Plugin (one button deploys the node): https://www.chromia.dev/rell-eclipse/update/
+How to connect with client: https://bitbucket.org/snippets/chromawallet/rnBAyB/postchain-client-connection
+Bitbucket account: https://bitbucket.org/chromawallet
